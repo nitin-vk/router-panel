@@ -1,0 +1,9 @@
+env/
+RouterPanel/panel-frontend/build/
+RouterPanel/panel-frontend/node-modules/
+RouterPanel/db.sqlite3
+RouterPanel/*.log
+RouterPanel/*.sqlite3
+RouterPanel/RouterPanel/__pycache__/
+RouterPanel/panel/__pycache__/
+RouterPanel/panel/migrations/
